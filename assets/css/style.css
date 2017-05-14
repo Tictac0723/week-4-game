@@ -1,0 +1,78 @@
+body {
+background-image: url("../images/background.gif");
+}
+
+.jumbotron {
+	background-color: #EF5B5B;
+	color: black;
+	text-align: center;
+}
+
+.display-3 {
+	font-family: 'Bungee Inline', cursive;
+	color: 	white;
+	font-size: 150px;
+}
+
+.lead {
+	font-family: 'Fjalla One', sans-serif;
+	color: black;
+}
+.currentNumber {
+	background-color: #9CC4B2;
+	width: 100%;
+	color: white;
+	clear:both;
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+	color: 	black;
+	border-style: outset;
+}
+
+.targetScoreText {
+	font-size: 40px;
+}
+
+.score {
+	background-color: #CEF7A0;
+	width: 100%;
+	clear: both;
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+	color: 	black;
+	border-style: outset;
+}
+
+.images {
+	display: inline;
+	width: 60%;
+	color: white;
+
+}
+
+.totalScore {
+	background-color: #CEF7A0;
+	width: 100%;
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+	color: 	black;
+	font-size: 40px;
+	border-style: outset;
+}
+img {
+	width: 10%;
+	margin: 15px;
+}
+
+#newGame {
+	background-color: #9CC4B2;
+	width: 100%;
+	color: white;
+	clear:both;
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 40px;
+	color: 	black;
+	border-style: outset;
+	margin-top: 20px;
+}
